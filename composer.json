@@ -4,8 +4,7 @@
     "description": "Fetch youtube videos",
     "minimum-stability": "dev",
     "keywords": [
-        "youtube",
-        "kdaviesnz/youtube"
+        "youtube"
     ],
     "homepage": "https://github.com/kdaviesnz/youtube/",
     "license": "MIT",
@@ -13,7 +12,7 @@
         {
             "name": ":kdavies",
             "email": "kdaviesnz@gmail.com",
-            "homepage": "https://github.com/kdaviesnz/youtue/",
+            "homepage": "https://github.com/kdaviesnz/youtube/",
             "role": "Developer"
         }
     ],
